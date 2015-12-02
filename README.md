@@ -1,0 +1,3 @@
+# Hilde
+Informatica trimester 2
+vage shizzle enzoo....
