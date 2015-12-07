@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ik probeer maar wat
 nah dat is gelukt hoor
+=======
+ik probeer ma
+>>>>>>> e235ec20eb23450da4ae7e911c2a0c8e7682b829
